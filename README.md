@@ -13,3 +13,5 @@ Device security — Memory integrity (Core isolation), Secure Boot, TPM
 Device performance & health — system drive free space, last boot time (labeled as best-effort, not a full mirror of Windows Security's telemetry-backed page)
 Protection history — recent events from the actual Defender operational event log, with friendly labels for well-known event IDs
 Highlights panel — everything above rolled into one severity-ranked list (Critical → High → Medium → Low) with plain-English recommendations, plus an "Overall Severity Highlight" card at the top
+Executable file - under the folder path - WinPatchScanner > WinPatchScanner > bin > Release > net6.0-windows > WinPatchScanner.exe
+Free to try ... help me create a free tool
